@@ -2,10 +2,10 @@
 <widget id="nl.ocb.SwatsApp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>SwatsApp</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        SwatsApp is a mobile application for "De Swatsers"
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="info@ocb-applications.nl" href="http://www.ocb-applications.nl">
+        OCB Applications
     </author>
     <content src="index.html" />
     <access origin="*" />
